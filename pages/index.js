@@ -74,7 +74,7 @@ const Home = () => {
       <div className="container">
         <div className="header">
           <div className="header-title">
-            <h1>Ai Gym Personal Trainer</h1>
+            <h1>iF-Ai Gym Personal Trainer</h1>
           </div>
           <div className="header-subtitle">
             <h2>Hi Let's plan your gym session</h2>
